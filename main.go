@@ -60,14 +60,14 @@ func main() {
 	rand.Seed(time.Now().Unix())
 	tm.Clear()
 
-	fmt.Print("[+] github.com/qoft\n\n")
+	fmt.Print("[+] github.com/SoftyMods/TiktokShares\n\n")
 
 	var threads int
 	var itemID string
 
 	fmt.Print("[>] Threads: ")
 	fmt.Scanln(&threads)
-	fmt.Print("VIDEO ID IS https://www.tiktok.com/@USERNAME/video/<THIS NUMBER RIGHT HERE> \n")
+	fmt.Print("VIDEO ID IS https://www.tiktok.com/@USERNAME/video/<NUMBER RIGHT HERE> \n")
 	fmt.Print("[>] Video ID: ")
 	fmt.Scanln(&itemID)
 
