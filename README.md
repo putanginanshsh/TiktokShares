@@ -23,18 +23,5 @@ git clone https://github.com/SoftyMods/TiktokShares.git
 go run .
 ```
 
-### Others
-idk just install go and run what is shown below in terminal
-```bash
-git clone https://github.com/SoftyMods/TiktokShares.git
-go run .
-```
-
-
-### If you want to disable license agreement, automatically yes
-
-```bash
-sudo add-apt-repository -y ppa:webupd8team/java
-sudo apt-get update
-echo debconf shared/accepted-oracle-license-v1-1 select true | sudo debconf-set-selections
-echo debconf shared/accepted-oracle-license-v1-1 seen true | sudo debconf-set-selections```
+### Mac
+Go fuck yourself
