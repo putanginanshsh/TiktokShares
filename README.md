@@ -3,7 +3,7 @@ Creds to [MonkeySkid](https://github.com/monkeyskid)
 
 ### Only use 100-1000 threads recommended, you might run into problems if you go any higher
 
-## Installation
+## Installation Linux
 
 Change to a temporary directory for the installation.
 
