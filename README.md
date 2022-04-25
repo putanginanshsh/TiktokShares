@@ -57,6 +57,10 @@ Go to the [Go download page](https://go.dev/dl/)
 git clone https://github.com/SoftyMods/TiktokShares.git
 go run .
 ```
+You can also build it to an exe.
+```bash
+go build
+```
 
 ### Mac
 Go fuck yourself
