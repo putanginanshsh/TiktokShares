@@ -1,9 +1,7 @@
 # Tiktok Share Bot
-some fun i had while making this, partically skidded 
+Creds to [MonkeySkid](https://github.com/monkeyskid)
 
-
-## Warning
-### 100-1000 threads recommended, if you put any threads over the recommendation, no support will be given
+### Only use 100-1000 threads recommended, you might run into problems if you go any higher
 
 ## Installation
 
