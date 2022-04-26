@@ -1,4 +1,4 @@
-## PATCHED
+# PATCHED
 
 # Tiktok Share Bot
 Creds to [MonkeySkid](https://github.com/monkeyskid)
